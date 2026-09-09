@@ -1,0 +1,16 @@
+{
+  "name": "ninjo",
+  "owner": { "name": "Ninjo", "url": "https://ninjo.ai" },
+  "metadata": {
+    "description": "Ninjo: operate your AI sales agents from Claude. Connector plus operator skills."
+  },
+  "plugins": [
+    {
+      "name": "ninjo",
+      "source": "./plugins/ninjo",
+      "description": "The Ninjo connector (cortex-gateway MCP) plus five operator skills: debug a live agent, build or iterate one, wire automation, connect channels, report on results.",
+      "category": "sales",
+      "keywords": ["ninjo", "instagram", "whatsapp", "sales-agent", "dm"]
+    }
+  ]
+}

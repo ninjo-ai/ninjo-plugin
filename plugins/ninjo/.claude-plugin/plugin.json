@@ -1,0 +1,11 @@
+{
+  "name": "ninjo",
+  "displayName": "Ninjo",
+  "version": "1.0.0",
+  "description": "Operate your Ninjo AI sales agents: diagnose a live agent, build or iterate one, wire the automation around it, connect channels, and report on results. Ships the Ninjo connector plus five operator skills.",
+  "author": { "name": "Ninjo", "url": "https://ninjo.ai" },
+  "homepage": "https://ninjo.ai",
+  "repository": "https://github.com/ninjo-ai/ninjo-plugin",
+  "license": "UNLICENSED",
+  "keywords": ["ninjo", "sales", "instagram", "whatsapp", "agents", "mcp"]
+}
