@@ -1,6 +1,6 @@
 # Ninjo plugin
 
-The Ninjo connector (cortex-gateway MCP, OAuth) plus six operator skills that load on their
+The Ninjo connector (cortex-gateway MCP, OAuth) plus seven operator skills that load on their
 own when the conversation matches:
 
 | Skill | Fires on |
@@ -11,6 +11,7 @@ own when the conversation matches:
 | `connect-channels` | Instagram, WhatsApp, ManyChat, CRM and booking connections; thread ownership |
 | `report` | metrics, funnels, booking lists, dashboards |
 | `morning-check` | starting the day: "buenos días", "qué tengo hoy"; plans the day from the agency memory (needs agency memory) |
+| `wrap-up` | ending the session: "cerremos el día", "listo por hoy"; saves the session's rules, decisions and fixes to the agency memory on the person's OK |
 
 Every skill is written for the MCP surface only: no files, no scripts. Deeper material is
 fetched with `get_playbook_doc` from the published playbook.
