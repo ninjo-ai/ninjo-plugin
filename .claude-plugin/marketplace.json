@@ -8,7 +8,7 @@
     {
       "name": "ninjo",
       "source": "./plugins/ninjo",
-      "description": "The Ninjo connector (cortex-gateway MCP) plus five operator skills: debug a live agent, build or iterate one, wire automation, connect channels, report on results.",
+      "description": "The Ninjo connector (cortex-gateway MCP) plus six operator skills: debug a live agent, build or iterate one, wire automation, connect channels, report on results, and a morning check from the agency memory.",
       "category": "sales",
       "keywords": ["ninjo", "instagram", "whatsapp", "sales-agent", "dm"]
     }
